@@ -30,13 +30,13 @@ External APIs: News API for fetching news headlines
 ## Installation
 To run the Newsify app locally on your machine, follow these steps:
 
-Clone the repository: git clone [repository-url]
-Navigate to the project directory: cd Newsify
-Install the dependencies: npm install
-Set up your News API key: Visit News API and generate your API key.
-Create a .env file in the root directory and add the following line: REACT_APP_NEWS_API_KEY=YOUR_API_KEY
-Start the development server: npm start
-Open your browser and visit http://localhost:3000 to access the Newsify app.
+ Clone the repository: git clone [repository-url]
+ Navigate to the project directory: cd Newsify
+ Install the dependencies: npm install
+ Set up your News API key: Visit News API and generate your API key.
+ Create a .env file in the root directory and add the following line: REACT_APP_NEWS_API_KEY=YOUR_API_KEY
+ Start the development server: npm start
+ Open your browser and visit http://localhost:3000 to access the Newsify app.
 
 
 

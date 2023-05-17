@@ -2,12 +2,12 @@
 iNotebook is a secure and feature-rich web application that allows users to create, modify, and delete their personal notes. With user authentication and robust encryption techniques, iNotebook ensures the privacy and security of user data. Take notes with confidence, knowing that your information is protected from unauthorized access.
 
 ## Features:
-### User Authentication: Securely register and log in to your personal account to access your notes.
-### Note Creation: Create new notes with titles, descriptions, and tags to organize your thoughts effectively.
-### Note Modification: Edit and update existing notes to keep your information up to date.
-### Note Deletion: Remove unwanted or outdated notes effortlessly.
-### Data Isolation: Each user can only access their own notes and cannot view or modify others' notes.
-### Password Encryption: User passwords are encrypted using industry-standard algorithms to prevent unauthorized access. The salt method adds an additional layer of security, making it nearly impossible for hackers to guess passwords based on encoded data.
+User Authentication: Securely register and log in to your personal account to access your notes.
+Note Creation: Create new notes with titles, descriptions, and tags to organize your thoughts effectively.
+Note Modification: Edit and update existing notes to keep your information up to date.
+Note Deletion: Remove unwanted or outdated notes effortlessly.
+Data Isolation: Each user can only access their own notes and cannot view or modify others' notes.
+Password Encryption: User passwords are encrypted using industry-standard algorithms to prevent unauthorized access. The salt method adds an additional layer of security, making it nearly impossible for hackers to guess passwords based on encoded data.
 ### Responsive Design: Enjoy a seamless user experience across different devices and screen sizes.
 
 ## Technologies Used
@@ -17,17 +17,26 @@ Database: MongoDB
 Authentication: JSON Web Tokens (JWT)
 Encryption: bcrypt.js
 
+![NewsApp - Sports](https://github.com/Vikassoni91/NewsApp/assets/90946288/b321dac6-d250-4240-b5fc-343a593ce80f)
+
+![NewsApp - Sports](https://github.com/Vikassoni91/NewsApp/assets/90946288/26750aae-201d-4eba-96c9-cf2615002f02)
+
+![Untitled](https://github.com/Vikassoni91/NewsApp/assets/90946288/3dddabde-3fae-4324-bfbf-495c651f9c1b)
+
+![Untitled](https://github.com/Vikassoni91/NewsApp/assets/90946288/4358e3b8-f55c-4a20-8ebc-6b27d81a05aa)
+
+
 
 ## Installation
 ### To run iNotebook locally on your machine, follow these steps:
 
-### Clone the repository: git clone [repository-url]
-### Navigate to the project directory: cd iNotebook
-### Install the dependencies: npm install
-### Set up your MongoDB connection: Update the db.js file with your MongoDB connection details.
-### Set up the JWT secret key: Create a .env file in the root directory and add the following line: JWT_SECRET=YOUR_SECRET_KEY
-### Start the development server: npm start
-### Open your browser and visit http://localhost:3000 to access iNotebook.
+Clone the repository: git clone [repository-url]
+Navigate to the project directory: cd iNotebook
+Install the dependencies: npm install
+Set up your MongoDB connection: Update the db.js file with your MongoDB connection details.
+Set up the JWT secret key: Create a .env file in the root directory and add the following line: JWT_SECRET=YOUR_SECRET_KEY
+Start the development server: npm start
+Open your browser and visit http://localhost:3000 to access iNotebook.
 
 
 

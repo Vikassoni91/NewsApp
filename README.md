@@ -17,24 +17,17 @@ Database: MongoDB
 Authentication: JSON Web Tokens (JWT)
 Encryption: bcrypt.js
 
+## Business News 
 ![NewsApp - Sports](https://github.com/Vikassoni91/NewsApp/assets/90946288/b321dac6-d250-4240-b5fc-343a593ce80f)
 
-
-
-
+## Sports News
 ![NewsApp - Sports](https://github.com/Vikassoni91/NewsApp/assets/90946288/26750aae-201d-4eba-96c9-cf2615002f02)
 
+## Tech News
+![NewsApp](https://github.com/Vikassoni91/NewsApp/assets/90946288/3dddabde-3fae-4324-bfbf-495c651f9c1b)
 
-
-
-
-![Untitled](https://github.com/Vikassoni91/NewsApp/assets/90946288/3dddabde-3fae-4324-bfbf-495c651f9c1b)
-
-
-
-
-
-![Untitled](https://github.com/Vikassoni91/NewsApp/assets/90946288/4358e3b8-f55c-4a20-8ebc-6b27d81a05aa)
+## Science News
+![NewsApp](https://github.com/Vikassoni91/NewsApp/assets/90946288/4358e3b8-f55c-4a20-8ebc-6b27d81a05aa)
 
 
 

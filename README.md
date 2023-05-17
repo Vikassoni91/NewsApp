@@ -1,3 +1,17 @@
+# iNotebook - Secure Note-Taking Web Application
+iNotebook is a secure and feature-rich web application that allows users to create, modify, and delete their personal notes. With user authentication and robust encryption techniques, iNotebook ensures the privacy and security of user data. Take notes with confidence, knowing that your information is protected from unauthorized access.
+
+# Features:
+## User Authentication: ###Securely register and log in to your personal account to access your notes.
+Note Creation: Create new notes with titles, descriptions, and tags to organize your thoughts effectively.
+Note Modification: Edit and update existing notes to keep your information up to date.
+Note Deletion: Remove unwanted or outdated notes effortlessly.
+Data Isolation: Each user can only access their own notes and cannot view or modify others' notes.
+Password Encryption: User passwords are encrypted using industry-standard algorithms to prevent unauthorized access.
+Salt Method: The salt method adds an additional layer of security, making it nearly impossible for hackers to guess passwords based on encoded data.
+Responsive Design: Enjoy a seamless user experience across different devices and screen sizes.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
